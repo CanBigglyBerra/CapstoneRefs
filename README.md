@@ -2,8 +2,11 @@
 References for capstone project 2025
 
 Southern Alberta Institute of Technology
+
 Boyang Chen & Matthew Burke
+
 Instructor: Piyushi Singh
+
 
 
 Adil. (2024, March 6). How to use iptables to block a specific DNS request?. Medium. https://adil.medium.com/how-to-use-iptables-to-block-a-specific-dns-request-2dfb5ca7340b
